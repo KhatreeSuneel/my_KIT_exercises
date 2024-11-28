@@ -1,5 +1,5 @@
 jellyfish.ipynb :
-A jupyter notebook that contains implementation of the CNN to perform image classification to the jellyfish dataset available at : https://www.kaggle.com/datasets/anshtanwar/jellyfish-types. The CNN architecture to be implemented for the task were procided as : 
+A jupyter notebook that contains implementation of the CNN to perform image classification to the jellyfish dataset available at : https://www.kaggle.com/datasets/anshtanwar/jellyfish-types. The CNN architecture to be implemented for the task were provided as : 
 1. Convolution layer (32 kernels, 5x5 kernel-size)
 2. Activation layer (ReLU)
 3. Max pooling layer (pooling size 2x2, stride 2)
